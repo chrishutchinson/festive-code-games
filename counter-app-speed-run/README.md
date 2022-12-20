@@ -11,7 +11,7 @@ Choose your approach, **browser** or **server**...
 If you're building a client app, you need to:
 
 1. Serve a web page at a URL of your choice
-2. Display a counter starting at 1
+2. Display a counter in a H1 tag starting at 1
 3. Display a button labelled ("next day")
 4. When the "next day" button is pressed, the counter should increase by 1
 5. If the browser is reloaded, the count should persist
@@ -41,7 +41,7 @@ The winner will be the first to complete their counter, proving it passes the te
 
 ### Browser
 
-- You can use a development server if you want (e.g. Parcel, Webpack Dev Server)
+- You can use a development server if you want (e.g. Parcel, Webpack Dev Server, Serve)
 - You can use TypeScript and / or a bundler if you want (e.g. Webpack)
 - You cannot use React, Vue, or any other UI framework
 - You cannot use Next.js, Nuxt or any other kind of front-end framework
