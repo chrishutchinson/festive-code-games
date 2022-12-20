@@ -1,4 +1,4 @@
-# ☃️ Festive Code Games
+# ☃️ Festive Code Games ☃️
 
 > Festive fun for all the ~~family~~ engineering team
 
@@ -8,7 +8,7 @@ A plethora of festive games to test your skills and compete for the coveted Lear
 
 ### JavaScript code golf
 
-> Who can solve Santa's Christmas tree lights problem with the fewest characters?
+> Who can print out the "12 Days Of Christmas" lyrics with the fewest characters?
 
 Head to `./code-golf` to get started!
 
