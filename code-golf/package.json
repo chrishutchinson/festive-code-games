@@ -1,0 +1,12 @@
+{
+  "name": "@learnerbly/christmas-code-golf",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
