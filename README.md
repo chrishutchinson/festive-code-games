@@ -22,7 +22,7 @@ Head to `./pub-quiz` to get started!
 
 ..
 
-### Counter app speed-run
+### Twelve days of Christmas counter speed-run
 
 > How fast can you create an app that counts to twelve (for the days of Christmas...) without using a framework? Client or server, your choice
 
