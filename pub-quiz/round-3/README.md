@@ -13,9 +13,9 @@
 
 4.  JavaScript standards are released using the acronym prefix ES, short for ECMAScript. What is ECMA short for?
 
-    A: European Code Makers Association
-    B: English Computer Manufacturers Association
-    C: Engineers Creating Messy Applications
-    D: European Computer Manufacturers Association
+        A: European Code Makers Association
+        B: English Computer Manufacturers Association
+        C: Engineers Creating Messy Applications
+        D: European Computer Manufacturers Association
 
 5.  ECMAScript versions were originally named using incrementing numbers, before switching to yearly releases in 2015. If we were still using incrementing numbers, what would ES2022 be called?

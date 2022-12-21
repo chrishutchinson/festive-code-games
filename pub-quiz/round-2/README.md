@@ -58,5 +58,5 @@
 
     ```js
     let x = "6";
-    console.log(x++ + 3, x);
+    console.log(x +++ 3, x);
     ```
