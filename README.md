@@ -4,7 +4,7 @@
 
 ## Overview
 
-A plethora of festive games to test your skills and compete for the coveted Learnerbly JavaScript crown 👑!
+A plethora of festive games to test your skills and compete for the coveted JavaScript crown 👑!
 
 ### JavaScript code golf
 

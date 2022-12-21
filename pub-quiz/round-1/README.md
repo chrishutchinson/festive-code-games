@@ -8,7 +8,9 @@
         Vue
         Solid
 
-2.  Name the framework from the logo (pictures will be presented)
+2.  Name the framework from the logo
+
+    ![Reference image for question 2, round one](framework-logos.png)
 
 3.  These snippets are all taken from the source code of different frameworks, match the snippet to the framework!
 

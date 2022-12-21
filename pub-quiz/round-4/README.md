@@ -1,6 +1,8 @@
 # Round four – `Math.random()`
 
-1.  Name each browser from the UI shown (images will be presented)
+1.  Name each browser from the UI shown
+
+    ![Reference image for question 1, round four](browsers.png)
 
 2.  Which browser was the first to support JavaScript?
 
